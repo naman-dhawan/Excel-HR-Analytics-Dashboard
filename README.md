@@ -32,10 +32,7 @@ indicators.
 
 ## 📂 Repository Structure
 
-HR-Analytics-Dashboard/
-│
-├── Dataset/
-│   └── HR_Dataset.xlsx
+HR-Analytics-Dashboard
 │
 ├── Dashboard/
 │   └── HR_Analytics_Dashboard.xlsx
@@ -78,9 +75,7 @@ Examples of insights to investigate:
 ## 📷 Dashboard Preview
 
 
-<img width="1304" height="1676" alt="Screenshot 2026-11-04 142224" src="https://github.com/user-attachments/assets/5a9a3d8d-a7ae-46f4-b859-3243c751268f" />
-
-![HR Analytics Dashboard](Images/dashboard_preview.png)
+<img width="1100" height="1100" alt="Screenshot 2026-11-04 142224" src="https://github.com/user-attachments/assets/5a9a3d8d-a7ae-46f4-b859-3243c751268f" />
 
 ## 📁 Project Files
 
